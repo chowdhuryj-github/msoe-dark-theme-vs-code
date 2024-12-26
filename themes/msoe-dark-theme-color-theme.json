@@ -19,12 +19,12 @@
 
 		// activity bar CSS code
 		"activityBar.background": "#8A3E3E",
-		"activityBarBadge.background": "#8A3E3E",
+		"activityBarBadge.background": "#9B4D4D",
 
 		// side bar CSS code
 		"sideBar.background": "#34374C",
 		"sideBarTitle.foreground": "#bbbbbb",
-		"list.activeSelectionBackground": "#7A2E2E",
+		"list.activeSelectionBackground": "#9B4D4D",
 
 		// side bar section header CSS code
 		"sideBarSectionHeader.background": "#9B4D4D",
