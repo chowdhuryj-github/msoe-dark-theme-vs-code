@@ -1,0 +1,21 @@
+{
+  "name": "msoe-dark-theme",
+  "displayName": "msoe-dark-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.96.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "msoe-dark-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/msoe-dark-theme-color-theme.json"
+      }
+    ]
+  }
+}
