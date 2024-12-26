@@ -2,9 +2,15 @@
   "name": "msoe-dark-theme",
   "displayName": "msoe-dark-theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "publisher": "SalvinHamzaAli",
   "engines": {
     "vscode": "^1.96.0"
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chowdhuryj-github/msoe-dark-theme-vs-code.git"
   },
   "categories": [
     "Themes"

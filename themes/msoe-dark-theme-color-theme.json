@@ -12,6 +12,7 @@
 
 		// link of text CSS code
 		"textLink.foreground": "#9B4D4D",
+		
 
 		// editor CSS code
 		"editor.background": "#2C2E3E",
